@@ -49,7 +49,7 @@ That's how you'll usually launch bacon, because other jobs like `test`, `clippy`
 
 ## check another project
 
-    bacon --path ../broot
+    bacon --project ../broot
 
 or
 
